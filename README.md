@@ -18,4 +18,6 @@
 
 [Front-end репозиторій](https://github.com/Sinex-Team/front-end) 
 
-[Watering-system репозиторій](https://github.com/Sinex-Team/watering-system)
+[Watering-system репозиторій](https://github.com/Sinex-Team/watering-system) 
+
+[Embedded репозиторій](https://github.com/Sinex-Team/embedded)
