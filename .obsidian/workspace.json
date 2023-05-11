@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -157,7 +157,7 @@
   "active": "ff45978cb5d991f1",
   "lastOpenFiles": [
     "progres-removebg-preview.png",
-    "Pasted image 20230511104132.png",
-    "README.md"
+    "README.md",
+    "Pasted image 20230511104132.png"
   ]
 }
