@@ -1,6 +1,6 @@
-<img src="progres-removebg-preview.png" width="200" height="200" align="right">
 
 # **Прогрес по проекту**  
+<img src="progres-removebg-preview.png" width="200" height="200" align="right">
 
 ### **Cтаном на 20.04.2023**
 
