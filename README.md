@@ -1,4 +1,4 @@
-<img src="C:\Users\taras\Downloads\progres-removebg-preview.png" width="200" height="200" align="center">
+<img src="progres-removebg-preview.png" width="200" height="200" align="center">
 
 # **Прогрес по проекту**  
 
