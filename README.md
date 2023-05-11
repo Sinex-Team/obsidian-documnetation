@@ -1,4 +1,7 @@
-# **Прогрес по проекту** 
+<img src="C:\Users\taras\Downloads\progres-removebg-preview.png" width="200" height="200" align="center">
+
+# **Прогрес по проекту**  
+
 ### **Cтаном на 20.04.2023**
 
 - Реалізовані CRUD операції для датчика вологості
